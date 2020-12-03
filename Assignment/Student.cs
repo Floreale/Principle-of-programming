@@ -16,7 +16,7 @@ namespace Assignment
         public string StudentNumber { get { return this.studentNumber; } set { this.studentNumber = value; } }
         public int Age { get { return this.age; } set { this.age = value; } }
         public Address Address { get { return this.address; } set { this.address = value; } }
-        public string FullName { get { return this.fullName; } set { this.fullName = value; } }
+        public string FullName { get { return this.fullName; } set { this.fullName = value; } }  
         public string FullAddress { get { return this.fullAddress; } set { this.fullAddress = value; } }
 
         public int Moyenne { get { return this.moyenne; } set { this.moyenne = value; } }
